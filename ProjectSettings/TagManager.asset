@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Stage
+  - Item
+  - ItemDamage
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Blocks
+  - Wall
+  - Enemy
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2912400639
+    locked: 0
+  - name: Stage
+    uniqueID: 4097453495
+    locked: 0
+  - name: Enemy
+    uniqueID: 2005056635
+    locked: 0
+  - name: Player
+    uniqueID: 1672133921
+    locked: 0
+  - name: Items
+    uniqueID: 378713059
+    locked: 0
